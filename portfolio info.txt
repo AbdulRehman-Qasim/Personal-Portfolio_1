@@ -1,0 +1,271 @@
+# Muhammad Abdul Rehman - Portfolio Data
+
+## Personal Information
+
+**Name:** Muhammad Abdul Rehman  
+**Title:** Full Stack Developer  
+**Location:** Lahore, Pakistan  
+**Email:** abdullrehmanmaan6@gmail.com  
+**Phone:** +92 345 8749579
+
+## Social Links
+
+- **GitHub:** [https://github.com/AbdulRehman-Qasim](https://github.com/AbdulRehman-Qasim)
+- **LinkedIn:** [https://www.linkedin.com/in/muhammad-abdul-rehman-287400347/](https://www.linkedin.com/in/muhammad-abdul-rehman-287400347/)
+- **Portfolio Website:** [Your deployed portfolio URL]
+
+---
+
+## Professional Summary
+
+Full Stack Developer with 2+ years of experience building scalable web applications. Specialized in React, Next.js, Node.js & modern cloud technologies. Focused on performance optimization, clean architecture, and solving real-world business problems.
+
+---
+
+## Technical Skills
+
+### Languages
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- C++
+- SQL
+- Python
+
+### Frontend
+- React.js
+- Next.js
+- Tailwind CSS
+- Bootstrap
+- Redux
+- Framer Motion
+- Shadcn UI
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- GraphQL
+- Socket.io
+
+### Databases
+- MongoDB
+- MySQL
+- Supabase
+- PostgreSQL
+- Firebase
+
+### DevOps & Cloud
+- Azure
+- GitHub Actions
+- Azure DevOps
+- Docker
+- Kubernetes
+- CI/CD
+- Vercel
+- Nginx
+
+---
+
+## Years of Experience
+
+- **React / Next.js:** 2.5+ years
+- **Node.js:** 2+ years
+- **TypeScript:** 2+ years
+- **Azure / Cloud:** 1.5+ years
+- **MongoDB / SQL:** 2+ years
+
+---
+
+## Featured Projects
+
+### 1. TrustPay Shield
+**Tagline:** Stop COD Fraud Before It Ships  
+**Description:** AI-powered risk scoring engine that screens every order in real-time. Reduce RTO, save costs, and ship with confidence.  
+**Live URL:** [https://trustpayshield.vercel.app/](https://trustpayshield.vercel.app/)  
+**Tech Stack:** Next.js, AI/ML, React, Tailwind CSS, Supabase
+
+---
+
+### 2. BuildFlow Pro
+**Tagline:** Complete Construction Management Platform  
+**Description:** End-to-end construction workflow and operations management system.  
+**Live URL:** [https://buildflow-pro.vercel.app/](https://buildflow-pro.vercel.app/)  
+**Tech Stack:** React, Node.js, Tailwind CSS, Supabase
+
+---
+
+### 3. Al Makhdoom Foods
+**Tagline:** Premium Quality, Authentic Taste  
+**Description:** Brand-focused food website with premium product presentation.  
+**Live URL:** [https://al-makhdoom-foods.vercel.app/](https://al-makhdoom-foods.vercel.app/)  
+**Tech Stack:** Next.js, Tailwind CSS, Supabase
+
+---
+
+### 4. Spice Heritage
+**Tagline:** Authentic Traditional Masalas  
+**Description:** Bringing the taste of tradition to your kitchen with a beautiful digital experience.  
+**Live URL:** [https://spice-heritage-ui-sooty.vercel.app/](https://spice-heritage-ui-sooty.vercel.app/)  
+**Tech Stack:** React, Tailwind CSS
+
+---
+
+### 5. ElectraX
+**Tagline:** Inspection Web App  
+**Description:** Full-featured inspection web app UI with modern design patterns.  
+**Live URL:** [https://electra-x.vercel.app/](https://electra-x.vercel.app/)  
+**Tech Stack:** React, Supabase, Tailwind CSS
+
+---
+
+### 6. UIverse
+**Tagline:** Frontend Learning Playground  
+**Description:** Modern UI learning platform with smooth animations and reusable components.  
+**Live URL:** [https://uiverse-frontend-learning-playgroun.vercel.app/](https://uiverse-frontend-learning-playgroun.vercel.app/)  
+**Tech Stack:** React, Framer Motion, CSS
+
+---
+
+### 7. Nova-Front
+**Tagline:** Design-led Frontend Agency  
+**Description:** Modern frontend agency website focused on performance and accessibility.  
+**Live URL:** [https://nova-front-ashen.vercel.app/](https://nova-front-ashen.vercel.app/)  
+**Tech Stack:** React, Tailwind CSS
+
+---
+
+### 8. Expense Tracker
+**Tagline:** Smart Expense Management  
+**Description:** Modern expense tracking application built with Next.js and Supabase.  
+**Live URL:** [https://expensetracker-orcin-one.vercel.app/](https://expensetracker-orcin-one.vercel.app/)  
+**Tech Stack:** Next.js, Supabase
+
+---
+
+### 9. Crudify
+**Tagline:** Full-Stack CRUD Application  
+**Description:** Modern full-stack CRUD application with clean architecture.  
+**Live URL:** [https://crudify-three.vercel.app/](https://crudify-three.vercel.app/)  
+**Tech Stack:** React, Node.js, Supabase
+
+---
+
+## Work Experience
+
+### Web Developer (Remote)
+**Company:** Lipsum Technologies Pvt. Ltd.  
+**Location:** Attock, Pakistan  
+**Period:** Dec 2024 – Present
+
+**Responsibilities:**
+- Built responsive web interfaces using React.js, Next.js, and Tailwind CSS
+- Integrated REST APIs and reusable components
+- Improved UI consistency and optimized performance
+
+---
+
+### Web App Developer Intern
+**Company:** Digital Empowerment Network (DEN)  
+**Period:** Jul 2025 – Sep 2025
+
+**Responsibilities:**
+- Built E-commerce platform and Dynamic News site
+- Focused on responsive layouts and optimization
+
+---
+
+### Full Stack Developer Intern
+**Company:** DevelopersHub Corporation  
+**Period:** Jun 2025 – Jul 2025
+
+**Responsibilities:**
+- Developed Mini E-commerce Platform
+- Built business-oriented web applications
+- Optimized UI and performance
+
+---
+
+## Education
+
+### Bachelor of Software Engineering (Ongoing)
+**Institution:** COMSATS University Islamabad, Lahore Campus  
+**Period:** Sep 2022 – Present
+
+### Intermediate (Pre-Engineering)
+**Institution:** Punjab College of Science  
+**Period:** Jun 2020 – Sep 2022
+
+---
+
+## Certifications
+
+1. **AWS Cloud Practitioner**
+2. **Oracle Certified Foundations Associate**
+3. **Google Cloud Fundamentals** (In Progress)
+
+---
+
+## Client Testimonials
+
+### Sarah Mitchell
+**Position:** CEO, TechNova Solutions  
+**Rating:** ⭐⭐⭐⭐⭐
+
+> "Abdul Rehman delivered an outstanding web application that exceeded our expectations. His attention to detail and ability to translate complex requirements into elegant solutions is remarkable."
+
+---
+
+### James Anderson
+**Position:** Product Manager, BuildFlow  
+**Rating:** ⭐⭐⭐⭐⭐
+
+> "Working with Abdul was a game-changer for our startup. He built our entire platform from scratch — frontend and backend — and delivered ahead of schedule with exceptional quality."
+
+---
+
+### Fatima Khan
+**Position:** Founder, SpiceRoute  
+**Rating:** ⭐⭐⭐⭐⭐
+
+> "His expertise in React and modern web technologies helped us launch our platform with exceptional performance. Professional, communicative, and highly skilled. Would hire again without hesitation."
+
+---
+
+### David Chen
+**Position:** CTO, CloudPeak Systems  
+**Rating:** ⭐⭐⭐⭐⭐
+
+> "Abdul's understanding of cloud architecture and CI/CD pipelines transformed our deployment process. He's not just a developer — he's a problem solver who thinks at scale."
+
+---
+
+## Portfolio Statistics
+
+- **Total Projects:** 9 featured projects
+- **Years of Experience:** 2+ years
+- **Technologies Mastered:** 25+
+- **Certifications:** 3 (1 in progress)
+- **Client Satisfaction:** 5/5 stars
+
+---
+
+## Quick Links Summary
+
+| Project | Live URL |
+|---------|----------|
+| TrustPay Shield | https://trustpayshield.vercel.app/ |
+| BuildFlow Pro | https://buildflow-pro.vercel.app/ |
+| Al Makhdoom Foods | https://al-makhdoom-foods.vercel.app/ |
+| Spice Heritage | https://spice-heritage-ui-sooty.vercel.app/ |
+| ElectraX | https://electra-x.vercel.app/ |
+| UIverse | https://uiverse-frontend-learning-playgroun.vercel.app/ |
+| Nova-Front | https://nova-front-ashen.vercel.app/ |
+| Expense Tracker | https://expensetracker-orcin-one.vercel.app/ |
+| Crudify | https://crudify-three.vercel.app/ |
+
+---
+
+**Last Updated:** February 14, 2026  
+**Document Version:** 1.0
